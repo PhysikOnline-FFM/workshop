@@ -407,5 +407,8 @@ $ mv    SOURCE DEST
 $ cp    SOURCE DEST     # -R kopiere Ordner
 $ rm    FILE            # -r lösche Ordner
 $ ssh   BENUTZER@HOST
+  ~/                    # Homeordner
+  .FILE                 # Versteckte Datei
+  <TAB>                 # Autovervollständigung von Dateinamen und Commands
 ```
 
